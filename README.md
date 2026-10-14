@@ -22,7 +22,7 @@ The checker evaluates the password using several criteria:
 4. Dictionary word detection
 5. Score calculation
 6. Final strength rating
-This helps users understand how their password is and how to improve it.
+This helps users understand how secure their password is and how to improve it.
 
 ## 🖥️ Usage
 - Run the script
